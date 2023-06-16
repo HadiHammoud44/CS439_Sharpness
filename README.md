@@ -10,20 +10,18 @@ Three python notebooks are available. Each notebook trains 50 models from scratc
 + **LeNet5_model.ipynb** is a notebook that runs the experiment on LeNet-5
 + **FCNN_model.ipynb** is a notebook that runs the experiment on a fully connected neural network
 
-## Requirements (TODO)
+## Requirements
 - Python 3.9.6
-- PyTorch
-- Torch Geometric
-- SciPy
-- NumPy
-- Torch-lr-finder
-- matplot-lib
-- torchvision
-- sklearn
-- pickle
-- shutil
-- tqdm
-- pandas
+- torch 2.0.1
+- torch-geometric 2.3.1
+- scipy 1.10.1
+- numpy 1.22.4
+- torch-lr-finder 0.2.1
+- matplotlib 3.7.1
+- torchvision 0.15.2
+- scikit-learn 1.2.2
+- tqdm 4.65.0
+- pandas 1.5.3
 
 ## Usage
 To run the project locally, install the requirements with pip and execute the ipynb files.
